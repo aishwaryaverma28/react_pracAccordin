@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_pracAccordin/static/css/main.8e9efb38.css",
+    "main.js": "/react_pracAccordin/static/js/main.158c62b2.js",
+    "index.html": "/react_pracAccordin/index.html",
+    "main.8e9efb38.css.map": "/react_pracAccordin/static/css/main.8e9efb38.css.map",
+    "main.158c62b2.js.map": "/react_pracAccordin/static/js/main.158c62b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e9efb38.css",
+    "static/js/main.158c62b2.js"
+  ]
+}
